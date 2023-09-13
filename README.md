@@ -1,8 +1,8 @@
 Sentiment-Analysis-of-Company-Reviews-
 
-This is a Kaggle Competition and we used different Deep Learning Models to do the task of Sentiment Analysis of Company Reviews. We also compared the performances of the different DL Models . <br>
+This is a Kaggle Competition and we used different Deep Learning Models to do the task of Sentiment Analysis of Company Reviews. We also compared the performances of the different DL Models . 
 
-Problem Statement :
+Problem Statement :<br>
 
 Through this project, we as a team will be participating in an ongoing Kaggle Competition. The goal is to perform Sentiment Analysis on Company Reviews given by customers. The target is to predict the number of stars in star rating from 1 to 5.  The specification given by the host of competition is the use of a regression metric, namely Mean Absolute Error (MAE), to evaluate predictions. 
 
